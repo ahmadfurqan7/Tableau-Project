@@ -32,3 +32,16 @@ This project leverages **Tableau** as the primary data visualization tool to ana
 | SQL *(optional)* | Data querying |
 
 ---
+
+## License
+
+This project is licensed under the MIT [LICENSE](LICENSE) use it freely for learning, teaching, or building.
+```
+  _    _ _  ______  _   _ 
+ | |  | | |/ / __ \| \ | |
+ | |  | | ' / |  | |  \| |
+ | |  | |  <| |  | | . ` |
+ | |__| | . \ |__| | |\  |
+  \____/|_|\_\____/|_| \_|                
+```
+
