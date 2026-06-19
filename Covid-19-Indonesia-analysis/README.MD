@@ -28,7 +28,7 @@ This dashboard provides a comprehensive summary of Indonesia COVID-19 data at bo
 
 - **Tableau** — Primary data visualization platform
 - **Mapbox / OpenStreetMap** — Interactive map of Indonesian regions
-- **Data Source** — [Indonesia COVID-19 public dataset (2020–2024)](https://www.kaggle.com/datasets/hendratno/covid19-indonesia)
+- **Data Source** — [COVID-19 Indonesia dataset](https://www.kaggle.com/datasets/hendratno/covid19-indonesia)
 
 ---
 
