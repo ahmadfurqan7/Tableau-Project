@@ -104,3 +104,15 @@ Shows how many properties exist in each bedroom category, representing the level
 | **Kaggle**    | Source of Retail Dataset           |
 
 ---
+
+## License
+
+This project is licensed under the MIT [LICENSE](LICENSE) use it freely for learning, teaching, or building.
+```
+  _    _ _  ______  _   _ 
+ | |  | | |/ / __ \| \ | |
+ | |  | | ' / |  | |  \| |
+ | |  | |  <| |  | | . ` |
+ | |__| | . \ |__| | |\  |
+  \____/|_|\_\____/|_| \_|                
+```
