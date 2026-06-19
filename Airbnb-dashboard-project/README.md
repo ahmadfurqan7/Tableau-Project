@@ -1,4 +1,4 @@
-# 📊 Airbnb Seattle data analytics dashboard
+# 📊 Airbnb Seattle Data Analytics Dashboard
 
 [Dashboard Public](https://public.tableau.com/views/AirBnBProject_17815915377440/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ![Dashboard Screenshot](dashboard.jpg)
