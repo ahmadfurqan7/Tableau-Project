@@ -47,19 +47,19 @@ Dashboard 1 — Main Integrated View
 
 ## 🗂️ Dashboard Features
 
-## 🗺️ COVID-19 Indonesia Map
+### 🗺️ COVID-19 Indonesia Map
 An interactive map displaying the distribution of COVID-19 cases across Indonesian provinces. Color intensity and marker size reflect the severity level in each region.
 
-## 📈 Total Cases & Deaths (by Year)
+### 📈 Total Cases & Deaths (by Year)
 A combination chart (bar + line) showing the trend of total cases and deaths from 2020–2024. The pandemic peak is clearly visible in **2022**.
 
-## 💚 Total Recovery
+### 💚 Total Recovery
 A multi-line chart displaying recovery trends by category from 2020–2024, with the highest peak in 2022 followed by a decline as the pandemic subsided.
 
-## 📉 Case Recovered Rate
+### 📉 Case Recovered Rate
 A bar chart illustrating the annual recovery rate, reflecting the healthcare systems capacity to handle COVID-19 patients over time.
 
-## ⚠️ Case Fatality Rate
+### ⚠️ Case Fatality Rate
 A bar chart showing the relative death toll against total cases each year, serving as an indicator of the virus's lethality over time.
 
 ---
