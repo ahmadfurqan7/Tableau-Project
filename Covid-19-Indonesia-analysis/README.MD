@@ -1,6 +1,8 @@
 # 📊 COVID 19 Indonesia Analytics Dashboard
 
-[Dashboard Public](https://public.tableau.com/shared/5TPHG2BF2?:display_count=n&:origin=viz_share_link)
+[An interactive Dashboard Public]
+
+(https://public.tableau.com/shared/5TPHG2BF2?:display_count=n&:origin=viz_share_link)
 ![Dashboard Screenshot](dashboard.png)
 
 ## 🚀 Overview
