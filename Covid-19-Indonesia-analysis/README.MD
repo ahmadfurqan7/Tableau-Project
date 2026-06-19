@@ -1,8 +1,7 @@
 # 📊 COVID 19 Indonesia Analytics Dashboard
 
-[An interactive Dashboard Public]
+[An interactive Dashboard Public](https://public.tableau.com/shared/5TPHG2BF2?:display_count=n&:origin=viz_share_link)
 
-(https://public.tableau.com/shared/5TPHG2BF2?:display_count=n&:origin=viz_share_link)
 ![Dashboard Screenshot](dashboard.png)
 
 ## 🚀 Overview
@@ -38,13 +37,7 @@ This dashboard provides a comprehensive summary of Indonesia COVID-19 data at bo
 This dashboard consists of 6 analytical sheets and 1 main dashboard view:
 
 ```
-Sheet 1   — (Distribution Map)
-Sheet 2   — (Total Cases & Deaths)
-Sheet 3   — (Total Recovery)
-Sheet 4   — (Case Recovered Rate)
-Sheet 5   — (Case Fatality Rate)
-Sheet 6   — (Additional Analysis)
-Dashboard 1 — Main Integrated View
+
 
 ---
 
