@@ -107,7 +107,7 @@ Shows how many properties exist in each bedroom category, representing the level
 
 ## License
 
-This project is licensed under the MIT [LICENSE](LICENSE) use it freely for learning, teaching, or building.
+This project is licensed under the MIT [LICENSE](https://github.com/ahmadfurqan7/Tableau-Project/blob/main/LICENSE) use it freely for learning, teaching, or building.
 ```
   _    _ _  ______  _   _ 
  | |  | | |/ / __ \| \ | |
@@ -116,3 +116,4 @@ This project is licensed under the MIT [LICENSE](LICENSE) use it freely for lear
  | |__| | . \ |__| | |\  |
   \____/|_|\_\____/|_| \_|                
 ```
+
