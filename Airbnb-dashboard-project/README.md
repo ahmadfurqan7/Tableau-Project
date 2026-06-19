@@ -24,7 +24,7 @@ The Airbnb Business Case
 
  **Source**: [Kaggle - Airbnb Listings 2016 Dataset](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset)
  
- [Airbnb data](https://insideairbnb.com/get-the-data/)
+ [Airbnb data Web](https://insideairbnb.com/get-the-data/)
  
  About this file
 |Table         | Row                                 | Column |
