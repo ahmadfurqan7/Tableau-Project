@@ -35,7 +35,7 @@ This project leverages **Tableau** as the primary data visualization tool to ana
 
 ## License
 
-This project is licensed under the MIT [LICENSE](LICENSE) use it freely for learning, teaching, or building.
+This project is licensed under the MIT [LICENSE](https://github.com/ahmadfurqan7/Tableau-Project/blob/main/LICENSE) use it freely for learning, teaching, or building.
 ```
   _    _ _  ______  _   _ 
  | |  | | |/ / __ \| \ | |
